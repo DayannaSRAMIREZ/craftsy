@@ -9,3 +9,13 @@
     font-style: normal;
     font-weight: normal;
 }
+body{
+    background-image: url('/images/bg-2.png');
+}
+a{
+    text-decoration: none;
+    color: white; 
+}
+li{
+    list-style: none;
+}
